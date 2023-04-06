@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+}
+
+header {
+	background-color: blue;
+}
+
+header a {
+	text-decoration: none;
+}
+
+div {
+	margin-left: auto;
+	margin-right: auto;
+}
